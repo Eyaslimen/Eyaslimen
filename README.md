@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Eyaslimen
 - 👀 I'm interested in web and mobile development, as well as AI
-- 🌱 I’m currently learning Web and mobile development (Angular,Flutter,..)
+- 🌱 I’m currently learning Web development (Angular,.NET,SQL,..)
 - 📫 Please feel free to contact me via email at eya.slimen@ensi-uma.tn
 
 <!---
